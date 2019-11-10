@@ -4,6 +4,7 @@ This repository records various approaches to time series analysis to predict sa
 past 5 years of 50 items over 10 stores.
 
 The approaches taken were:
+
 1.XGBoost
 
 2.LSTM
