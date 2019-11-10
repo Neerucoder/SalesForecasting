@@ -1,4 +1,4 @@
-# Sales Item Demand Forecasting
+# Sales Forecasting
 
 This repository records various approaches to time series analysis to predict sales for 3 months into the future given data of the 
 past 5 years of 50 items over 10 stores.
